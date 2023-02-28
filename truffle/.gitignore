@@ -1,0 +1,4 @@
+node-modules
+.secret
+.infura
+.etherscan
